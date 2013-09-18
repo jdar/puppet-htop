@@ -1,4 +1,8 @@
-# Htop Puppet Module for Boxen
+# htop Puppet Module for Boxen
+
+Installs htop.
+
+[![Build Status](https://travis-ci.org/boxen/puppet-htop.png?branch=master)](https://travis-ci.org/boxen/puppet-htop)
 
 ## Usage
 
@@ -8,6 +12,4 @@ include htop
 
 ## Required Puppet Modules
 
-* boxen
-* homebrew
-* stdlib
+* `boxen`
